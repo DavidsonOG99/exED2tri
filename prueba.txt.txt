@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 lorem ipso ll
 David sanz García
+=======
+lorem ipso ll
+>>>>>>> 26d72569bb0c265d181d2c539c3976cd267dac7b
